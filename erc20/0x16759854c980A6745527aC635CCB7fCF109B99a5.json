@@ -1,0 +1,22 @@
+{
+  "symbol": "MMP",
+  "address": "0x16759854c980A6745527aC635CCB7fCF109B99a5",
+  "overview":{
+        "en": "MMP TOKEN",
+        "zh": "MMP TOKEN"
+  },
+  "email": "x@ucw.cc",
+  "website": "https://ucw.cc/",
+  "whitepaper": "https://ucw.cc/whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-09-01",
+  "initial_price":{
+        "ETH":"0.000766666 ETH",
+        "USD":"0.1428 USD",
+        "BTC":"0.000001 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/MMPTOKEN",
+    "github": "https://github.com/syncake/token-profile"
+  }
+}
